@@ -14,3 +14,6 @@
 2. 작곡 model
 
 3. 게임 model
+
+
+[https://github.com/k1101jh/GAN-tutorial] 참고하기
